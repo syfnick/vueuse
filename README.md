@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/vueuse/vueuse/main/packages/public/logo-vertical-dark.png#gh-dark-mode-only" alt="VueUse - Collection of essential Vue Composition Utilities" width="300">
 </a>
 <br>
-Collection of essential Vue Composition Utilities
+Collection of essential Vue Composition Utilities 123
 </p>
 
 <p align="center">
